@@ -30,7 +30,7 @@ const PartnerDriverPage = () => {
         <div className="features">
           <div className="feature">
             <div className="icon income">
-                <img src="" alt="" />
+                
             </div>
             <h5>Reliable Income</h5>
             <p>Earn a steady income with consistent delivery requests.</p>
